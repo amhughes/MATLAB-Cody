@@ -1,5 +1,5 @@
 function c = collatz(n)
-%Solution 21 Return the 3n+1 sequence
+%Solution 21: Return the 3n+1 sequence
 i=1
 c(i)=n
 while n ~= 1

@@ -8,19 +8,101 @@ http://www.mathworks.com/matlabcentral/cody/?sort=&term=group%3A%22Cody+Challeng
 
 Solutions are what I have created and not the best solution possible.
 
-Complete
-[x] - 1
-[x] - 2
-[x] - 3
-[x] - 4
-[x] - 5
-[x] - 6
-[x] - 7
-[x] - 8
-[x] - 9
-[x] - 10
-[] - 11
-[] - 12
-[] - 13
-[] - 14
-[] - 15
+[x] = Complete (20/96)
+
+[x] - 1: Times 2
+[x] - 2: Make the vector [1 2 3 4 5 6 7 8 9 10]
+[x] - 3: Find the sum of the input vector
+[x] - 4: Make a checkerboard matrix
+[x] - 5: Triangle Numbers
+[x] - 6: Select every other element of a vector
+[x] - 7: Column Removal
+[x] - 8: Add two numbers
+[x] - 9: Who Has the Most Change
+[x] - 10: Determine if vector is monotonically increasing
+[x] - 11: Back and Forth Rows
+[x] - 12: Fibonacci sequence
+[ ] - 13
+[x] - 14: Find the mean of the prime numbers in a matrix
+[ ] - 15
+[x] - 16: Return the largest number adjacent to a zero
+[x] - 17: Replace elements less than 0 or greater than 10 with NaN
+[x] - 18: Bullseye Matrix
+[ ] - 19
+[ ] - 20
+[x] - 21: Return the 3n+1 sequence
+[ ] - 22
+[x] - 23: Finding Perfect Squares
+[ ] - 24
+[ ] - 25
+[x] - 26: Determine if input is odd
+[ ] - 27
+[ ] - 28
+[ ] - 29
+[ ] - 30
+[ ] - 31
+[ ] - 32
+[x] - 33: Create times-tables
+[ ] - 34
+[ ] - 35
+[ ] - 36
+[ ] - 37
+[ ] - 38
+[ ] - 39
+[ ] - 40
+[ ] - 41
+[ ] - 42
+[ ] - 43
+[ ] - 44
+[ ] - 45
+[ ] - 46
+[ ] - 47
+[ ] - 48
+[ ] - 49
+[ ] - 50
+[ ] - 51
+[ ] - 52
+[ ] - 53
+[ ] - 54
+[ ] - 55
+[ ] - 56
+[ ] - 57
+[ ] - 58
+[ ] - 59
+[ ] - 60
+[ ] - 61
+[ ] - 62
+[ ] - 63
+[ ] - 64
+[ ] - 65
+[ ] - 66
+[ ] - 67
+[ ] - 68
+[ ] - 69
+[ ] - 70
+[ ] - 71
+[ ] - 72
+[ ] - 73
+[ ] - 74
+[ ] - 75
+[ ] - 76
+[ ] - 77
+[ ] - 78
+[ ] - 79
+[ ] - 80
+[ ] - 81
+[ ] - 82
+[ ] - 83
+[ ] - 84
+[ ] - 85
+[ ] - 86
+[ ] - 87
+[ ] - 88
+[ ] - 89
+[ ] - 90
+[ ] - 91
+[ ] - 99
+[ ] - 93
+[ ] - 94
+[ ] - 95
+[ ] - 96
