@@ -8,7 +8,7 @@ http://www.mathworks.com/matlabcentral/cody/?sort=&term=group%3A%22Cody+Challeng
 
 Solutions are what I have created and not the best solution possible.
 
-[x] = Complete (20/96)
+[x] = Complete (26/96)
 
 [x] - 1: Times 2
 [x] - 2: Make the vector [1 2 3 4 5 6 7 8 9 10]
@@ -28,8 +28,8 @@ Solutions are what I have created and not the best solution possible.
 [x] - 16: Return the largest number adjacent to a zero
 [x] - 17: Replace elements less than 0 or greater than 10 with NaN
 [x] - 18: Bullseye Matrix
-[ ] - 19
-[ ] - 20
+[x] - 19: Swap the first and last columns
+[x] - 20: Summing digits
 [x] - 21: Return the 3n+1 sequence
 [ ] - 22
 [x] - 23: Finding Perfect Squares
@@ -38,10 +38,10 @@ Solutions are what I have created and not the best solution possible.
 [x] - 26: Determine if input is odd
 [ ] - 27
 [ ] - 28
-[ ] - 29
+[x] - 29: Nearest Numbers
 [ ] - 30
 [ ] - 31
-[ ] - 32
+[x] - 32: Most nonzero elements in row
 [x] - 33: Create times-tables
 [ ] - 34
 [ ] - 35
@@ -69,7 +69,7 @@ Solutions are what I have created and not the best solution possible.
 [ ] - 57
 [ ] - 58
 [ ] - 59
-[ ] - 60
+[x] - 60: The Goldbach Conjecture
 [ ] - 61
 [ ] - 62
 [ ] - 63
@@ -103,6 +103,6 @@ Solutions are what I have created and not the best solution possible.
 [ ] - 91
 [ ] - 99
 [ ] - 93
-[ ] - 94
+[x] - 94: Target sorting
 [ ] - 95
 [ ] - 96
