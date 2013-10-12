@@ -8,7 +8,7 @@ http://www.mathworks.com/matlabcentral/cody/?sort=&term=group%3A%22Cody+Challeng
 
 Solutions are what I have created and not the best solution possible.
 
-[x] = Complete (26/96)
+[x] = Complete (27/96)
 
 [x] - 1: Times 2
 [x] - 2: Make the vector [1 2 3 4 5 6 7 8 9 10]
@@ -37,7 +37,7 @@ Solutions are what I have created and not the best solution possible.
 [ ] - 25
 [x] - 26: Determine if input is odd
 [ ] - 27
-[ ] - 28
+[x] - 28: Counting Money
 [x] - 29: Nearest Numbers
 [ ] - 30
 [ ] - 31
