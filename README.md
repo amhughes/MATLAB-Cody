@@ -8,7 +8,7 @@ http://www.mathworks.com/matlabcentral/cody/?sort=&term=group%3A%22Cody+Challeng
 
 Solutions are what I have created and not the best solution possible.
 
-[x] = Complete (27/96)
+[x] = Complete (29/96)
 
 [x] - 1: Times 2
 [x] - 2: Make the vector [1 2 3 4 5 6 7 8 9 10]
@@ -39,14 +39,14 @@ Solutions are what I have created and not the best solution possible.
 [ ] - 27
 [x] - 28: Counting Money
 [x] - 29: Nearest Numbers
-[ ] - 30
+[x] - 30: Sort a list of complex numbers
 [ ] - 31
 [x] - 32: Most nonzero elements in row
 [x] - 33: Create times-tables
 [ ] - 34
 [ ] - 35
 [ ] - 36
-[ ] - 37
+[x] - 37: Pascal's Triangle
 [ ] - 38
 [ ] - 39
 [ ] - 40
