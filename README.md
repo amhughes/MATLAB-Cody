@@ -8,7 +8,7 @@ http://www.mathworks.com/matlabcentral/cody/?sort=&term=group%3A%22Cody+Challeng
 
 Solutions are what I have created and not the best solution possible.
 
-Complete = 31/96
+Complete = 34/96
 
  - [x] 1: Times 2
  - [x] 2: Make the vector  - [1 2 3 4 5 6 7 8 9 10]
@@ -55,12 +55,12 @@ Complete = 31/96
  - [ ] 43
  - [ ] 44
  - [ ] 45
- - [ ] 46
+ - [x] 46: Which doors are open?
  - [ ] 47
  - [x] 48: Making Change
  - [ ] 49
  - [ ] 50
- - [ ] 51
+ - [x] 51: Find the two most distant points
  - [ ] 52
  - [ ] 53
  - [ ] 54
@@ -96,7 +96,7 @@ Complete = 31/96
  - [ ] 84
  - [ ] 85
  - [ ] 86
- - [ ] 87
+ - [x] 87: Indexed Probability Table
  - [ ] 88
  - [ ] 89
  - [ ] 90
